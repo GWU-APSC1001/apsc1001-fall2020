@@ -20,18 +20,18 @@ Got too many ~things~ to keep track of for online classes? Not to worry, this pa
 - Join the course's **[Slack Workspace](https://apsc1001seasgwu.slack.com/)**. Here's where you'll hear class announcements, get questions answered, or just get to know your classmates.
     - Link: [https://apsc1001seasgwu.slack.com/](https://apsc1001seasgwu.slack.com/)
 - Download the **[GW SEAS VPN](https://www.gwu.edu/~virtual/downloads/anyconnect.cfm)**
-    - <a href="{{ site.baseurl }}{% link files/gwu_vpn.pdf %}" target="_blank"> Installation instructions </a>
+    - <a href="{{ site.baseurl }}/files/gwu_vpn.pdf" target="_blank"> Installation instructions </a>
     - *NOTE* that you only have to install this once! After the VPN is installed, all you have to do is connect
 - Login to the course's **[Python server](https://kartik-py.seas.gwu.edu)**. *NOTE* that you'll need to be logged into the GW SEAS VPN to access this site. Confused or stuck? [Shoot one of us an email](contact.html).
     - Link: [https://kartik-py.seas.gwu.edu](https://kartik-py.seas.gwu.edu)
 - Vensim system modeling software
     - <a href="https://vensim.com/free-download/" target="_blank">https://vensim.com/free-download/</a>
-    - <a href="{{ site.baseurl }}{% link files/vensim_install.pdf %}" target="_blank"> Installation instructions </a>
+    - <a href="{{ site.baseurl }}/files/vensim_install.pdf" target="_blank"> Installation instructions </a>
 
 ### Thinking Ahead & Getting Involved
 After APSC 1001, we encourage you to explore SEAS! This is a great way to figure out what you're interested in and meet new people (especially once you're back on campus)! One particularly good way to do this is to check out the student organizations around SEAS:
 
-- [Presenters from class on 11/20](/files/student_orgs.pdf)
+- [Presenters from class on 11/20]({{ site.baseurl }}/files/student_orgs.pdf)
 - <a href="https://www.seas.gwu.edu/student-organizations" target="_blank">Official GWU SEAS list of affiliated student orgs</a>
 
 

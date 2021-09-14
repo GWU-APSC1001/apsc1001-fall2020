@@ -7,7 +7,7 @@ due_date: December 1, 2020, 11:59 PM EST
 
 Your final project for APSC 1001 is to work with your small group and design an app that meets one of our project specs. All three options are social innovation apps to help with quarantine during the COVID-19 pandemic.
 
-**Project Specs:** <a href="/files/thunkable_final.pdf" target="_blank">View PDF</a>
+**Project Specs:** <a href="{{ site.baseurl }}/files/thunkable_final.pdf" target="_blank">View PDF</a>
 
 <hr>
 
@@ -19,8 +19,8 @@ These are some useful libraries for royalty-free images you can use in your apps
 - [Lottie Files Animations](https://lottiefiles.com/)
 
 Here are some handy project templates you may want at some point.
-- [PATH Exercise](/files/path_statement.pdf) (Source: Participatory Design Toolkit (2019), D-lab, MIT)
-- [Final PowerPoint Template](/files/Final_Project_APSC1.pptx)
+- [PATH Exercise]({{ site.baseurl }}/files/path_statement.pdf) (Source: Participatory Design Toolkit (2019), D-lab, MIT)
+- [Final PowerPoint Template]({{ site.baseurl }}/files/Final_Project_APSC1.pptx)
 
 <hr>
 

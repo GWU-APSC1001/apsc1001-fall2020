@@ -41,7 +41,7 @@ title: Course Schedule
     </tr>
     <tr>
       <td style="text-align: left">10/16/20</td>
-      <td style="text-align: left">Introduction to Civil Engineering with <a href="https://transportation.seas.gwu.edu/" target="_blank">Prof. Samer Hamdar</a><br><a href="/files/cee_activities.pdf">Check out the CEE traffic simulation games</a></td>
+      <td style="text-align: left">Introduction to Civil Engineering with <a href="https://transportation.seas.gwu.edu/" target="_blank">Prof. Samer Hamdar</a><br><a href="{{ site.baseurl }}/files/cee_activities.pdf">Check out the CEE traffic simulation games</a></td>
       <td style="text-align: left"><a href="labs/week3-python.html">COVID-19 data plotting in Python</a><br><a href="labs/week2-thunkable.html">Thunkable: Handwash Timer</a></td>
       <td> </td>
     </tr>
@@ -70,13 +70,13 @@ title: Course Schedule
     <tr>
       <td style="text-align: left">11/13/20</td>
       <td style="text-align: left">Introduction to Computer Science by <a href="https://www.seas.gwu.edu/bhagirath-narahari" target="_blank">Associate Dean Bhagirath Narahari</a></td>
-      <td style="text-align: left"><a href="labs/week6-python.html">Image encryption in Python</a><br><a href="/files/path_statement.pdf" target="_blank">Final Project PATH Worksheet</a></td>
+      <td style="text-align: left"><a href="labs/week6-python.html">Image encryption in Python</a><br><a href="{{ site.baseurl }}/files/path_statement.pdf" target="_blank">Final Project PATH Worksheet</a></td>
       <td>Python HW4<br><a href="assignments/thunkable-assignment4.html">Thunkable Assignment 4</a><br><a target="_blank" href="https://forms.gle/Pd8nhwEcMkmM9rgz9">Accelerometers COGS</a></td>
     </tr>
     <tr>
       <td style="text-align: left">11/20/20</td>
       <td style="text-align: left">Introduction to Biomedical Engineering by <a href="https://www.seas.gwu.edu/anne-laure-papa" target="_blank">Prof. Anne-Laure Papa</a></td>
-      <td style="text-align: left"><a href="files/student_orgs.pdf">Get involved: SEAS Student Orgs</a><br>Student Panel</td>
+      <td style="text-align: left"><a href="{{ site.baseurl }}/files/student_orgs.pdf">Get involved: SEAS Student Orgs</a><br>Student Panel</td>
       <td>Python HW5<br><a href="https://forms.gle/wfSigP4QcfaZPEAN7" target="_blank">Final Project PATH</a></td>
     </tr>
     <tr>

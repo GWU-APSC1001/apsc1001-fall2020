@@ -5,8 +5,8 @@ title: "Module 1: Thunkable"
 **Goal:** This lab will teach you how to make the APSC 1001 Welcome App
 
 **Downloadable Resources:** 
-- ["Class" image from the Noun Project](/files/noun_class.png) (click the link, then right-click and "Save As")
-- <a href="/files/thunkable_week1.pdf" target="_blank">Lecture Slides</a>
+- ["Class" image from the Noun Project]({{ site.baseurl }}/files/noun_class.png) (click the link, then right-click and "Save As")
+- <a href="{{ site.baseurl }}/files/thunkable_week1.pdf" target="_blank">Lecture Slides</a>
 
 <hr/>
 

@@ -12,8 +12,6 @@ narrow: true
 - [Assignment 2](#assignment-2)
 - [Assignment 1](#assignment-1)
 
-<a name="headers"/>
-
 <hr>
 
 **APSC 1001 in the news!** Student apps from our class (that's right, YOUR work!) were featured in a <a href="https://www.seas.gwu.edu/seas-students-create-apps-promote-social-awareness-during-covid-19" target="_blank">recent SEAS newsletter</a>. Give it a read and share it with your friends and family! Once again, congrats on a job well done with these excellent apps.
@@ -22,13 +20,13 @@ narrow: true
 
 APSC 1001 has a longstanding tradition of recognizing student participation, engagement, and creativity with "brownie points". Moving the class online means tweaking the tradition a little, so here we're featuring student-made [Thunkable assignment](list/assignments.html) submissions that we felt were exceptionally creative and beyond the scope of what we were expecting.
 
-Of course, it's always difficult to pick the top 3-5 out of so many excellent creations -- [we](/contact.html) love seeing your hard work, even if it isn't showcased here!
+Of course, it's always difficult to pick the top 3-5 out of so many excellent creations -- [we](contact.html) love seeing your hard work, even if it isn't showcased here!
 
 Congratulations on your outstanding work this fall, everyone!
 
 ### Final Project
 
-After the final project presentations, both the [instruction team](/contact.html) and the students voted on their favorite app.
+After the final project presentations, both the [instruction team](contact.html) and the students voted on their favorite app.
 
 - **INSTRUCTION TEAM AWARD:** <a href="https://x.thunkable.com/projectPage/5fc9459da34a4a001313768a" target="_blank">Group 3's Quarantine Quality app</a> made by Jack Brookshaw, Kaj Boeri, and Ben Chapman
 - **STUDENT CHOICE AWARD:** <a href="https://x.thunkable.com/projectPage/5fc9462642f6870012dae087" target="_blank">Group 7's Crowd Alert app</a> made by Lucas Mah, Lily Samoyan, and Joachim Santiago
